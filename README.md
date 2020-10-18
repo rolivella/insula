@@ -32,6 +32,6 @@ que está “abajo”: Quod est inferius, est sicut quod est superius. Et quod e
 sicut quod est inferius. La vida y la muerte existe “arriba” y “abajo”: desde la vida y la
 muerte de las estrellas, pasando por la de las naciones o civilizaciones, hasta llegar a la
 vida y muerte del hombre.
-Ambos conceptos se encuentran unidos en el caligrama fractal insula smaragdina, en el que la
+Ambos conceptos se encuentran unidos en el caligrama fractal "insula smaragdina", en el que la
 forma y el contenido expresan la misma idea: la forma de fractal semejante a cualquier
 escala y el contenido del texto que proclama la semejanza de lo de “arriba” y “abajo”.
