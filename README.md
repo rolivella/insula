@@ -1,4 +1,4 @@
-# Insula Smaragdina
+# Insula Smaragdina (2005)
 ## Instal·lació - Instalación
 
 1) Instal·lar / Instalar https://docs.oracle.com/javase/9/tools/appletviewer.htm#JSWOR612
