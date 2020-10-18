@@ -18,7 +18,7 @@ Hi ha una frase molt antiga que proclama la semblança entre el que és “a dal
 quod est inferius. La vida i la mort existeix tant “a dalt” com “a baix”: des de la vida i la
 mort dels estels, passant per la de les nacions o civilitzacions, fins a arribar a la vida i
 mort de l'home.
-Ambdós conceptes es troben units en el poema insula smaragdina, on la forma i el
+Ambdós conceptes es troben units en el cal·ligrama fractal "insula smaragdina", on la forma i el
 contingut expressen la mateixa idea: la forma de fractal es semblant a qualsevol escala i
 el contingut del text que proclama la semblança entre “a dalt” i “a baix”.
 
@@ -32,6 +32,6 @@ que está “abajo”: Quod est inferius, est sicut quod est superius. Et quod e
 sicut quod est inferius. La vida y la muerte existe “arriba” y “abajo”: desde la vida y la
 muerte de las estrellas, pasando por la de las naciones o civilizaciones, hasta llegar a la
 vida y muerte del hombre.
-Ambos conceptos se encuentran unidos en el poema insula smaragdina, en el que la
+Ambos conceptos se encuentran unidos en el caligrama fractal insula smaragdina, en el que la
 forma y el contenido expresan la misma idea: la forma de fractal semejante a cualquier
 escala y el contenido del texto que proclama la semejanza de lo de “arriba” y “abajo”.
