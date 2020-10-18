@@ -35,3 +35,7 @@ vida y muerte del hombre.
 Ambos conceptos se encuentran unidos en el caligrama fractal "insula smaragdina", en el que la
 forma y el contenido expresan la misma idea: la forma de fractal semejante a cualquier
 escala y el contenido del texto que proclama la semejanza de lo de “arriba” y “abajo”.
+
+## Credits
+
+Roger Olivella (roger.olivella@gmail.com)
