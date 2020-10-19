@@ -38,4 +38,4 @@ escala y el contenido del texto que proclama la semejanza de lo de “arriba” 
 
 ## Crèdits
 
-Roger Olivella (roger.olivella@gmail.com)
+[Roger Olivella](http://bifur.cat)
