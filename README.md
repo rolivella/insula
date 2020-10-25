@@ -4,8 +4,8 @@
 
 ### Obra final (/insula-obra): 
 
-Windows: editar dir.properities i executar insula.bat (prèvia instal·lació del JAVA). 
-Linux: editar dir.properities i executar insula.jar.
+- Windows: editar dir.properities i executar insula.bat (prèvia instal·lació del JAVA). 
+- Linux: editar dir.properities i executar insula.jar.
 
 ### Versió web (/insula-web): 
 
