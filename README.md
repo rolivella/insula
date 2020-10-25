@@ -2,6 +2,11 @@
 
 ## Instal·lació
 
+### Obra final (/insula-obra): 
+
+Windows: editar dir.properities i executar insula.bat (prèvia instal·lació del JAVA). 
+Linux: editar dir.properities i executar insula.jar.
+
 ### Versió web (/insula-web): 
 
 1) Instal·lar / Instalar https://docs.oracle.com/javase/9/tools/appletviewer.htm#JSWOR612
@@ -10,11 +15,7 @@
 ```
 appletviewer insula.htm
 ```
-### Obra final (/insula-obra): 
-
-Windows: editar dir.properities i executar insula.bat (prèvia instal·lació del JAVA). 
-Linux: editar dir.properities i executar insula.jar. 
-
+ 
 ## Català
 
 Un fractal és una figura que es repeteix fins l'infinit: tant si es mira d'aprop o de lluny,
