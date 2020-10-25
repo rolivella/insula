@@ -1,5 +1,8 @@
 # Insula Smaragdina (2005)
-## Instal·lació - Instalación
+
+## Instal·lació
+
+# Versió web (/insula-web): 
 
 1) Instal·lar / Instalar https://docs.oracle.com/javase/9/tools/appletviewer.htm#JSWOR612
 2) Executar / Ejecutar: 
@@ -7,6 +10,10 @@
 ```
 appletviewer insula.htm
 ```
+# Obra final (/insula-obra): 
+
+Windows: editar dir.properities i executar insula.bat (prèvia instal·lació del JAVA). 
+Linux: editar dir.properities i executar insula.jar. 
 
 ## Català
 
