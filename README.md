@@ -46,7 +46,7 @@ escala y el contenido del texto que proclama la semejanza de lo de “arriba” 
 
 ## Crèdits
 
-[Roger Olivella](http://bifur.cat)
+[Roger Olivella](https://rolivella.github.io/)
 
 ## Referències
 
