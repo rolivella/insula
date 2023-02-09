@@ -50,5 +50,4 @@ escala y el contenido del texto que proclama la semejanza de lo de “arriba” 
 
 ## Referències
 
-CID, Alba e Isaac LOURIDO (eds.). La poesía actual en el espacio público. Villeurbanne: Orbis Tertius, 2015. [PDF]([El_espacio como agente intersemiotico en la (de)construcc_full paper.pdf](https://github.com/rolivella/insula/files/10699542/El_espacio.como.agente.intersemiotico.en.la.de.construcc_full.paper.pdf)
-).  
+CID, Alba e Isaac LOURIDO (eds.). La poesía actual en el espacio público. Villeurbanne: Orbis Tertius, 2015. [PDF](https://github.com/rolivella/insula/files/10699542/El_espacio.como.agente.intersemiotico.en.la.de.construcc_full.paper.pdf).  
